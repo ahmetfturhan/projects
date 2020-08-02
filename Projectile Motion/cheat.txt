@@ -1,0 +1,15 @@
+velocity:189		
+angle:86
+
+velocity:143		
+angle:77
+
+velocity: 138		
+angle:76
+
+velocity:144		
+angle:83
+
+velocity: 152
+angle: 78.5
+
